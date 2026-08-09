@@ -28,7 +28,7 @@ This project demonstrates advanced SQL querying skills including:
 ## Dataset
 
 Source:
-MLB data: https://drive.google.com/drive/folders/1UyeVh9taRzmMXkJgTeDJUEK74Y-a4ze9?usp=drive_link
+MLB data: [https://drive.google.com/drive/folders/1UyeVh9taRzmMXkJgTeDJUEK74Y-a4ze9?usp=drive_link](https://drive.google.com/drive/folders/1UyeVh9taRzmMXkJgTeDJUEK74Y-a4ze9?usp=sharing)
 
 Tables used:
 
